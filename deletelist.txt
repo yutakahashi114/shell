@@ -1,0 +1,2 @@
+/Users/takahashiyu/Dev/shell/bbb
+/Users/takahashiyu/Dev/shell/aaaa/ggg
