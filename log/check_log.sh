@@ -15,4 +15,4 @@ do
     if [ -n "`echo $line | grep $err`" ];then
         echo "error occurred: $line"
     fi
-done < <(tail -1 -F $file_name)
+done < <(tail -n -1 -F $file_name)
